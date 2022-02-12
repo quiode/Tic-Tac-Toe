@@ -1,0 +1,29 @@
+#canvas {
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50vw;
+  top: 50vh;
+  display: none;
+  border-radius: 1vmin;
+  border-color: white;
+  border-style: solid;
+}
+
+#start {
+  color: white;
+  background-color: black;
+  border-color: white;
+  position: fixed;
+  z-index: 5;
+  transform: translate(-50%, -50%);
+  left: 50vw;
+  top: 50vh;
+  width: 10vw;
+  height: 10vh;
+}
+
+body {
+  background-color: black;
+}
+
+/*# sourceMappingURL=Tic-Tac-Toe.css.map */

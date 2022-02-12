@@ -1,0 +1,2 @@
+sass --watch "Tic-Tac-Toe.scss":Tic-Tac-Toe.css
+tsc --watch Tic-Tac-Toe.ts
